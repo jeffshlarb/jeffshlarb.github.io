@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    font-family: "Comic Sans MS";
+}
+
+div {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+img {
+    max-width: 40%;
+    align-self: center;
+}
+
+p {
+    width: 50%;
+    align-self: center;
+    margin: 1em;
+    margin-bottom: 100px;
+}
